@@ -27,4 +27,4 @@ height: 100vh;
 width: 115vw; 
 background: url('https://github.com/bulletinmybeard/bulletinmybeard/assets/2648783/701080fd-8fe9-4ca3-b6c5-e226f5062b0b') no-repeat right center fixed; 
 background-size: cover; 
-opacity: 0.5;]{x0000}$}
+opacity: 0.25;]{x0000}$}
