@@ -38,7 +38,7 @@ Currently focused on developer tools, automation, and AI integration in enterpri
 
 ### Integrations & Plugins
 
-- **[obsidian-gitlab-tooling-plugin](https://github.com/bulletinmybeard/obsidian-gitlab-tooling-plugin)** - GitLab integration for Obsidian with real-time project insights
+- **[obsidian-gitlab-tooling-plugin (alpha-preview)](https://github.com/bulletinmybeard/obsidian-gitlab-tooling-plugin/tree/alpha-preview)** - GitLab integration for Obsidian with real-time project insights
 
 ## GitHub Stats
 
