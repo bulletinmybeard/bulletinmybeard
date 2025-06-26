@@ -4,7 +4,7 @@
 [![Apex](https://img.shields.io/badge/Apex-00A1E0?style=flat&logo=salesforce&logoColor=white)](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/)
 [![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)](https://www.elastic.co/)
+[![ELK](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)](https://www.elastic.co/)
 
 # Hey there! I'm Robin
 
@@ -39,10 +39,6 @@ Currently focused on developer tools, automation, and AI integration in enterpri
 ### Integrations & Plugins
 
 - **[obsidian-gitlab-tooling-plugin (alpha-preview)](https://github.com/bulletinmybeard/obsidian-gitlab-tooling-plugin/tree/alpha-preview)** - GitLab integration for Obsidian with real-time project insights
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bulletinmybeard&show_icons=true&theme=default&hide_border=true&count_private=true)
 
 ## Recent Activity
 
