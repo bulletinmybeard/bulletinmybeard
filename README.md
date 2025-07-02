@@ -26,7 +26,7 @@ Currently focused on developer tools, automation, and AI integration in enterpri
 
 ### Developer Tools & Automation
 
-- **[docusaurus-plugin-git-docs-sync](https://github.com/bulletinmybeard/docusaurus-plugin-git-docs-sync)** - A Docusaurus plugin that syncs documents from your GitHub repositories into your Docusaurus site.
+- **[docusaurus-plugin-git-docs-sync](https://github.com/bulletinmybeard/docusaurus-plugin-git-docs-sync)** - A Docusaurus plugin to sync docs from GitHub into your site
 - **[py-macos-mic-control](https://github.com/bulletinmybeard/py-macos-mic-control)** - Automatic microphone volume control for macOS calls and meetings
 - **[py-voice-memo-export](https://github.com/bulletinmybeard/py-voice-memo-export)** - Effortless Apple Voice Memos export tool
 
