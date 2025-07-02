@@ -26,8 +26,8 @@ Currently focused on developer tools, automation, and AI integration in enterpri
 
 ### Developer Tools & Automation
 
-- **[py-macos-mic-control](https://github.com/bulletinmybeard/py-macos-mic-control)** - Automatic microphone volume control for macOS calls and meetings
 - **[obsidian-plugin-dev-sync](https://github.com/bulletinmybeard/obsidian-plugin-dev-sync)** - Real-time plugin synchronization for Obsidian developers (6+ stars)
+- **[py-macos-mic-control](https://github.com/bulletinmybeard/py-macos-mic-control)** - Automatic microphone volume control for macOS calls and meetings
 - **[py-voice-memo-export](https://github.com/bulletinmybeard/py-voice-memo-export)** - Effortless Apple Voice Memos export tool
 
 ### Backend & Infrastructure
