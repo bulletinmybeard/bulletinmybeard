@@ -21,29 +21,3 @@ Currently focused on developer tools, automation, and AI integration in enterpri
 **Infrastructure:** Docker, Elasticsearch, Kibana, Logstash, OpenResty  
 **Platforms:** Salesforce (Apex, Lightning), macOS development, Obsidian plugin development  
 **Interests:** AI/LLM integration, developer tools, system automation, observability, API integrations
-
-## Featured Projects
-
-### Developer Tools & Automation
-
-- **[docusaurus-plugin-git-docs-sync](https://github.com/bulletinmybeard/docusaurus-plugin-git-docs-sync)** - A Docusaurus plugin to sync docs from GitHub into your site
-- **[py-macos-mic-control](https://github.com/bulletinmybeard/py-macos-mic-control)** - Automatic microphone volume control for macOS calls and meetings
-- **[py-voice-memo-export](https://github.com/bulletinmybeard/py-voice-memo-export)** - Effortless Apple Voice Memos export tool
-
-### Backend & Infrastructure
-
-- **[log-audits-to-elasticsearch](https://github.com/bulletinmybeard/log-audits-to-elasticsearch)** - Python REST API service for audit logging with FastAPI and Elasticsearch
-- **[local-elk-stack](https://github.com/bulletinmybeard/local-elk-stack)** - Local ELK Stack setup with backup tools
-- **[openresty-docker-playground](https://github.com/bulletinmybeard/openresty-docker-playground)** - NGINX and Lua exploration with OpenResty
-
-### Integrations & Plugins
-
-- **[obsidian-gitlab-tooling-plugin (alpha-preview)](https://github.com/bulletinmybeard/obsidian-gitlab-tooling-plugin/tree/alpha-preview)** - GitLab integration for Obsidian with real-time project insights
-
-## Recent Activity
-
-I'm actively maintaining my open-source projects and exploring new technologies. Check out my repositories below to see what I've been working on!
-
-## Get in Touch
-
-Feel free to explore my repositories and reach out if you'd like to collaborate on interesting projects or discuss technology!
